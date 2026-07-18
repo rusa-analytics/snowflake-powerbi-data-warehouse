@@ -1,0 +1,5 @@
+commodity_id,commodity_name,unit
+LI,Lithium,USD/tonne LCE
+GR,Graphite,USD/tonne
+MN,Manganese,USD/tonne
+CO,Cobalt,USD/tonne

@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Critical Minerals Market Intelligence — RUSA Analytics</title>
+<style>
+  body { margin:0; padding:24px; background:#05080A; font-family:-apple-system,"Segoe UI",system-ui,sans-serif; }
+  @media (max-width: 720px) {
+    .cmi-scope { padding: 16px !important; }
+    .cmi-ticker { grid-template-columns: repeat(2,1fr) !important; }
+    .cmi-main-grid { grid-template-columns: 1fr !important; }
+  }
+</style>
+</head>
+<body>
+<div id="cmi-root" class="cmi-scope">
+<style>
+.cmi-scope {
+  --bg-base: #0A0F0E;
+  --bg-panel: #101816;
+  --bg-panel-raised: #14201D;
+  --hairline: #223028;
+  --text-primary: #EEF3F1;
+  --text-muted: #7E8F8A;
+  --text-dim: #4E5C58;
+  --teal: #17C9AE;
+  --teal-dim: rgba(23,201,174,0.14);
+  --graphite: #8892A0;
+  --manganese: #D68A4C;
+  --cobalt: #4E8FD1;
+  --amber-warn: #E0A33D;
+  --brand-red: #C8102E;
+  --mono: ui-monospace, "SF Mono", "Cascadia Code", Consolas, monospace;
+  --sans: -apple-system, "Segoe UI", system-ui, sans-serif;
+
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: var(--sans);
+  padding: 28px;
+  border-radius: 6px;
+  max-width: 1180px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.cmi-scope * { box-sizing: border-box; }
+
+.cmi-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--hairline);
+  padding-bottom: 18px;
+  margin-bottom: 22px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.cmi-brand { display: flex; align-items: center; gap: 10px; }
+.cmi-brand-mark {
+  width: 30px; height: 30px; border: 1.5px solid var(--brand-red);
+  border-radius: 50%; display: flex; align-items: center; justify-content: center;
+  font-family: var(--mono); font-size: 11px; font-weight: 700; color: var(--brand-red);
+  flex-shrink: 0;
+}
+.cmi-title-block h1 {
+  font-size: 15px; letter-spacing: 0.12em; text-transform: uppercase;
+  margin: 0; font-weight: 700; color: var(--text-primary);
+}
+.cmi-title-block p {
+  font-size: 12px; color: var(--text-muted); margin: 4px 0 0; letter-spacing: 0.02em;
+}
+.cmi-demo-badge {
+  font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em;
+  color: var(--amber-warn); border: 1px solid var(--amber-warn);
+  padding: 4px 9px; border-radius: 3px; height: fit-content;
+  text-transform: uppercase;
+}
+
+.cmi-ticker {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 22px;
+}
+.cmi-tick-card {
+  background: var(--bg-panel);
+  border: 1px solid var(--hairline);
+  border-radius: 5px;
+  padding: 13px 14px;
+}
+.cmi-tick-top { display: flex; justify-content: space-between; align-items: baseline; }
+.cmi-tick-name { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
+.cmi-tick-chg { font-family: var(--mono); font-size: 11px; font-weight: 600; }
+.cmi-tick-chg.down { color: #E15C5C; }
+.cmi-tick-chg.up { color: var(--teal); }
+.cmi-tick-price { font-family: var(--mono); font-size: 19px; font-weight: 600; margin: 6px 0 2px; }
+.cmi-tick-unit { font-size: 10px; color: var(--text-dim); margin-bottom: 8px; }
+.cmi-tick-spark { width: 100%; height: 28px; display: block; }
+
+.cmi-main-grid {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+.cmi-panel {
+  background: var(--bg-panel);
+  border: 1px solid var(--hairline);
+  border-radius: 5px;
+  padding: 16px 18px 18px;
+}
+.cmi-panel-title {
+  font-size: 11px; text-transform: uppercase; letter-spacing: 0.09em;
+  color: var(--text-muted); margin: 0 0 4px; font-weight: 600;
+}
+.cmi-panel-sub { font-size: 11px; color: var(--text-dim); margin: 0 0 14px; }
+
+.cmi-legend { display: flex; gap: 16px; margin-bottom: 10px; flex-wrap: wrap; }
+.cmi-legend-item { display: flex; align-items: center; gap: 6px; font-size: 11px; color: var(--text-muted); }
+.cmi-legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+.cmi-concentration-row { margin-bottom: 16px; }
+.cmi-conc-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; }
+.cmi-conc-name { font-size: 12px; font-weight: 600; }
+.cmi-conc-hhi { font-family: var(--mono); font-size: 10px; color: var(--text-muted); }
+.cmi-conc-hhi.risk { color: var(--amber-warn); }
+.cmi-conc-bar { display: flex; height: 18px; border-radius: 3px; overflow: hidden; background: var(--bg-panel-raised); }
+.cmi-conc-seg { height: 100%; }
+.cmi-conc-labels { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 5px; }
+.cmi-conc-label { font-size: 9.5px; color: var(--text-dim); font-family: var(--mono); }
+
+.cmi-flow {
+  background: var(--bg-panel);
+  border: 1px solid var(--hairline);
+  border-radius: 5px;
+  padding: 16px 18px;
+  margin-bottom: 10px;
+}
+.cmi-flow-row { display: flex; align-items: center; gap: 0; overflow-x: auto; padding-top: 6px; }
+.cmi-flow-node {
+  background: var(--bg-panel-raised);
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  padding: 10px 14px;
+  min-width: 130px;
+  flex-shrink: 0;
+}
+.cmi-flow-node .k { font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); }
+.cmi-flow-node .v { font-size: 12.5px; font-weight: 600; margin-top: 3px; }
+.cmi-flow-node .d { font-size: 10px; color: var(--text-muted); margin-top: 3px; line-height: 1.4; }
+.cmi-flow-arrow { color: var(--text-dim); font-size: 16px; padding: 0 10px; flex-shrink: 0; }
+
+.cmi-footnote {
+  font-size: 10.5px; color: var(--text-dim); margin-top: 10px; line-height: 1.5;
+  border-top: 1px solid var(--hairline); padding-top: 12px;
+}
+</style>
+
+<div class="cmi-header">
+  <div class="cmi-brand">
+    <div class="cmi-brand-mark">R</div>
+    <div class="cmi-title-block">
+      <h1>Critical Minerals Market Intelligence</h1>
+      <p>Snowflake data warehouse &rarr; Power BI reporting layer &middot; Lithium, Graphite, Manganese, Cobalt</p>
+    </div>
+  </div>
+  <div class="cmi-demo-badge">Capability Demo &middot; Synthetic Data</div>
+</div>
+
+<div class="cmi-ticker" id="cmi-ticker"></div>
+
+<div class="cmi-main-grid">
+  <div class="cmi-panel">
+    <p class="cmi-panel-title">Indexed Price Trend</p>
+    <p class="cmi-panel-sub">Jan 2022 = 100 &middot; monthly average, blended across producing geographies</p>
+    <div class="cmi-legend" id="cmi-legend"></div>
+    <svg id="cmi-chart" viewBox="0 0 640 220" style="width:100%; height:220px; display:block;"></svg>
+  </div>
+  <div class="cmi-panel">
+    <p class="cmi-panel-title">Supply Concentration</p>
+    <p class="cmi-panel-sub">Production share by country &middot; latest year, with HHI risk read</p>
+    <div id="cmi-concentration"></div>
+  </div>
+</div>
+
+<div class="cmi-flow">
+  <p class="cmi-panel-title" style="margin-bottom:2px;">Data Architecture</p>
+  <p class="cmi-panel-sub">How a price update reaches the Power BI report</p>
+  <div class="cmi-flow-row">
+    <div class="cmi-flow-node">
+      <div class="k">Source</div>
+      <div class="v">Market feed CSV</div>
+      <div class="d">Price &amp; production, monthly</div>
+    </div>
+    <div class="cmi-flow-arrow">&rarr;</div>
+    <div class="cmi-flow-node">
+      <div class="k">Snowflake · RAW</div>
+      <div class="v">Landing tables</div>
+      <div class="d">1:1 with source structure</div>
+    </div>
+    <div class="cmi-flow-arrow">&rarr;</div>
+    <div class="cmi-flow-node">
+      <div class="k">Snowflake · CORE</div>
+      <div class="v">Star schema</div>
+      <div class="d">Fact + commodity/geo/supplier dims</div>
+    </div>
+    <div class="cmi-flow-arrow">&rarr;</div>
+    <div class="cmi-flow-node">
+      <div class="k">Snowflake · REPORTING</div>
+      <div class="v">Read-only views</div>
+      <div class="d">Pre-aggregated, least-privilege role</div>
+    </div>
+    <div class="cmi-flow-arrow">&rarr;</div>
+    <div class="cmi-flow-node">
+      <div class="k">Power BI</div>
+      <div class="v">DirectQuery report</div>
+      <div class="d">No separate refresh schedule</div>
+    </div>
+  </div>
+</div>
+
+<div class="cmi-footnote">
+  Dataset is synthetically generated for this capability demonstration and does not represent a named client or live commercial engagement. Schema design, DirectQuery configuration, and role-based access pattern mirror how RUSA structures production Snowflake &rarr; Power BI builds.
+</div>
+</div>
+
+<script>
+(function(){
+  const data = {"months": ["2022-01", "2022-02", "2022-03", "2022-04", "2022-05", "2022-06", "2022-07", "2022-08", "2022-09", "2022-10", "2022-11", "2022-12", "2023-01", "2023-02", "2023-03", "2023-04", "2023-05", "2023-06", "2023-07", "2023-08", "2023-09", "2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10", "2024-11", "2024-12", "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06"], "commodities": [{"id": "LI", "name": "Lithium", "unit": "USD/tonne LCE"}, {"id": "GR", "name": "Graphite", "unit": "USD/tonne"}, {"id": "MN", "name": "Manganese", "unit": "USD/tonne"}, {"id": "CO", "name": "Cobalt", "unit": "USD/tonne"}], "monthly_avg_price": {"LI": [71017.1, 70141.4, 71139.7, 61225.5, 69245.2, 60121.2, 56685.0, 60770.4, 60882.2, 55472.4, 59041.0, 48314.2, 53951.1, 51748.1, 44112.0, 44911.7, 41049.8, 44037.1, 39974.2, 38123.9, 36224.2, 33472.1, 30547.1, 28673.4, 25873.2, 22008.0, 25682.1, 21907.4, 22828.0, 21179.3, 24078.9, 20583.6, 21044.9, 21553.6, 19914.6, 21746.6, 21401.7, 21296.1, 21747.6, 19743.6, 19353.7, 21006.9], "GR": [977.0, 975.8, 912.9, 970.6, 945.7, 962.3, 925.5, 899.4, 926.9, 931.8, 934.3, 929.6, 919.7, 904.7, 879.9, 894.4, 941.5, 874.3, 853.9, 880.5, 872.8, 868.9, 885.4, 877.5, 814.9, 808.6, 863.5, 862.0, 836.6, 810.8, 838.7, 792.5, 835.5, 826.5, 831.9, 834.4, 828.1, 769.6, 806.7, 781.4, 811.4, 796.7], "MN": [4080.6, 4047.6, 4203.0, 4176.7, 4363.9, 4255.8, 4340.9, 4143.6, 4414.5, 4166.2, 4092.4, 4060.5, 4483.2, 4397.4, 4253.6, 4400.1, 4363.4, 4366.3, 4186.6, 4093.4, 4154.5, 4333.7, 4124.8, 3980.7, 4151.1, 4062.7, 4367.4, 3950.6, 4143.5, 4311.7, 4207.2, 4257.8, 4176.6, 4080.1, 4221.9, 4172.2, 4111.7, 3997.0, 3989.8, 4169.9, 4169.2, 4051.4], "CO": [46982.0, 49356.8, 47347.3, 47556.1, 44896.7, 45874.9, 47896.4, 44142.2, 43499.9, 41991.9, 40851.1, 46881.2, 45529.2, 41933.0, 40449.8, 38926.8, 36414.1, 35810.4, 37703.6, 39588.7, 36547.1, 37406.8, 36194.5, 30418.8, 34432.7, 33294.0, 33447.4, 34280.4, 29575.6, 33035.7, 32383.3, 34598.3, 33863.9, 30870.2, 33795.9, 32354.3, 29056.9, 32821.3, 32542.5, 33500.2, 30547.7, 31612.0]}, "country_share_latest": {"LI": {"Australia": 20518.2, "Chile": 10479.3, "China": 6976.1, "Argentina": 5981.9}, "GR": {"China": 27061.6, "Mozambique": 5267.8, "Brazil": 4472.4, "India": 5655.1}, "MN": {"South Africa": 15186.2, "Gabon": 9445.0, "Australia": 7413.7, "Ghana": 4952.1, "India": 6142.0}, "CO": {"DR Congo": 32263.3, "Russia": 2507.5, "Australia": 2300.3, "Canada": 2159.8, "Indonesia": 5154.9}}};
+
+  const COLORS = {LI: 'var(--teal)', GR: 'var(--graphite)', MN: 'var(--manganese)', CO: 'var(--cobalt)'};
+  const HEX = {LI: '#17C9AE', GR: '#8892A0', MN: '#D68A4C', CO: '#4E8FD1'};
+  const root = document.getElementById('cmi-root');
+
+  // ---- Ticker cards ----
+  const ticker = root.querySelector('#cmi-ticker');
+  data.commodities.forEach(c => {
+    const series = data.monthly_avg_price[c.id];
+    const latest = series[series.length - 1];
+    const yearAgo = series[series.length - 13];
+    const chg = ((latest - yearAgo) / yearAgo) * 100;
+    const dir = chg >= 0 ? 'up' : 'down';
+    const arrow = chg >= 0 ? '\u25B2' : '\u25BC';
+
+    const last12 = series.slice(-12);
+    const min = Math.min(...last12), max = Math.max(...last12);
+    const pts = last12.map((v,i) => {
+      const x = (i/(last12.length-1)) * 100;
+      const y = 26 - ((v - min)/(max - min || 1)) * 24;
+      return `${x},${y}`;
+    }).join(' ');
+
+    const card = document.createElement('div');
+    card.className = 'cmi-tick-card';
+    card.innerHTML = `
+      <div class="cmi-tick-top">
+        <span class="cmi-tick-name">${c.name}</span>
+        <span class="cmi-tick-chg ${dir}">${arrow} ${Math.abs(chg).toFixed(1)}%</span>
+      </div>
+      <div class="cmi-tick-price">$${latest.toLocaleString(undefined,{maximumFractionDigits:0})}</div>
+      <div class="cmi-tick-unit">${c.unit} &middot; 12mo change</div>
+      <svg class="cmi-tick-spark" viewBox="0 0 100 28" preserveAspectRatio="none">
+        <polyline points="${pts}" fill="none" stroke="${HEX[c.id]}" stroke-width="1.6" />
+      </svg>
+    `;
+    ticker.appendChild(card);
+  });
+
+  // ---- Legend ----
+  const legend = root.querySelector('#cmi-legend');
+  data.commodities.forEach(c => {
+    const item = document.createElement('div');
+    item.className = 'cmi-legend-item';
+    item.innerHTML = `<span class="cmi-legend-dot" style="background:${HEX[c.id]}"></span>${c.name}`;
+    legend.appendChild(item);
+  });
+
+  // ---- Indexed price chart ----
+  const svg = root.querySelector('#cmi-chart');
+  const W = 640, H = 220, padL = 40, padR = 10, padT = 10, padB = 24;
+  const months = data.months;
+  const n = months.length;
+
+  // gridlines + axis labels (y: index 0-160)
+  const yMin = 0, yMax = 160;
+  [0,50,100,150].forEach(v => {
+    const y = padT + (1 - (v-yMin)/(yMax-yMin)) * (H-padT-padB);
+    const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+    line.setAttribute('x1', padL); line.setAttribute('x2', W-padR);
+    line.setAttribute('y1', y); line.setAttribute('y2', y);
+    line.setAttribute('stroke', '#223028'); line.setAttribute('stroke-width', '1');
+    svg.appendChild(line);
+    const txt = document.createElementNS('http://www.w3.org/2000/svg','text');
+    txt.setAttribute('x', padL - 6); txt.setAttribute('y', y+3);
+    txt.setAttribute('text-anchor','end'); txt.setAttribute('font-size','9');
+    txt.setAttribute('fill', '#4E5C58'); txt.setAttribute('font-family','ui-monospace,monospace');
+    txt.textContent = v;
+    svg.appendChild(txt);
+  });
+  // x labels: Jan of each year
+  months.forEach((m,i) => {
+    if (m.endsWith('-01')) {
+      const x = padL + (i/(n-1)) * (W-padL-padR);
+      const txt = document.createElementNS('http://www.w3.org/2000/svg','text');
+      txt.setAttribute('x', x); txt.setAttribute('y', H-6);
+      txt.setAttribute('text-anchor','middle'); txt.setAttribute('font-size','9');
+      txt.setAttribute('fill', '#4E5C58'); txt.setAttribute('font-family','ui-monospace,monospace');
+      txt.textContent = m.slice(0,4);
+      svg.appendChild(txt);
+    }
+  });
+
+  data.commodities.forEach(c => {
+    const series = data.monthly_avg_price[c.id];
+    const base = series[0];
+    const indexed = series.map(v => (v/base)*100);
+    const pts = indexed.map((v,i) => {
+      const x = padL + (i/(n-1)) * (W-padL-padR);
+      const y = padT + (1 - (v-yMin)/(yMax-yMin)) * (H-padT-padB);
+      return `${x.toFixed(1)},${y.toFixed(1)}`;
+    }).join(' ');
+    const poly = document.createElementNS('http://www.w3.org/2000/svg','polyline');
+    poly.setAttribute('points', pts);
+    poly.setAttribute('fill','none');
+    poly.setAttribute('stroke', HEX[c.id]);
+    poly.setAttribute('stroke-width','2');
+    poly.setAttribute('stroke-linejoin','round');
+    svg.appendChild(poly);
+  });
+
+  // ---- Supply concentration ----
+  const conc = root.querySelector('#cmi-concentration');
+  data.commodities.forEach(c => {
+    const shares = data.country_share_latest[c.id];
+    const total = Object.values(shares).reduce((a,b)=>a+b,0);
+    const entries = Object.entries(shares).sort((a,b)=>b[1]-a[1]);
+    const hhi = entries.reduce((sum,[,v]) => sum + Math.pow((v/total)*100,2), 0);
+    const risk = hhi > 3500;
+
+    const palette = ['#17C9AE','#4E8FD1','#D68A4C','#8892A0','#6C5CE7'];
+    const row = document.createElement('div');
+    row.className = 'cmi-concentration-row';
+    let segHtml = '';
+    let labelHtml = '';
+    entries.forEach(([name,v],i) => {
+      const pct = (v/total)*100;
+      segHtml += `<div class="cmi-conc-seg" style="width:${pct}%; background:${palette[i%palette.length]}"></div>`;
+      labelHtml += `<span class="cmi-conc-label"><span style="color:${palette[i%palette.length]}">&#9632;</span> ${name} ${pct.toFixed(0)}%</span>`;
+    });
+    row.innerHTML = `
+      <div class="cmi-conc-head">
+        <span class="cmi-conc-name">${c.name}</span>
+        <span class="cmi-conc-hhi ${risk?'risk':''}">HHI ${hhi.toFixed(0)}${risk?' \u26A0 concentrated':''}</span>
+      </div>
+      <div class="cmi-conc-bar">${segHtml}</div>
+      <div class="cmi-conc-labels">${labelHtml}</div>
+    `;
+    conc.appendChild(row);
+  });
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1009 @@
+date,commodity_id,commodity_name,unit,country_iso,country_name,supplier_name,price_usd,production_tonnes
+2022-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,70980.75,1025.6
+2022-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,70980.75,1137.0
+2022-01-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,73645.07,1132.0
+2022-01-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,69922.06,372.8
+2022-01-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,69922.06,395.4
+2022-01-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,70651.83,618.8
+2022-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,69380.22,1191.9
+2022-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,69380.22,1011.7
+2022-02-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,69831.02,1218.5
+2022-02-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,70903.75,365.6
+2022-02-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,70903.75,347.2
+2022-02-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,70449.45,620.7
+2022-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,71048.49,1333.5
+2022-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,71048.49,1188.6
+2022-03-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,72295.57,1238.7
+2022-03-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,71223.42,440.5
+2022-03-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,71223.42,384.7
+2022-03-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,69998.52,569.5
+2022-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,60881.77,1129.9
+2022-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,60881.77,1070.3
+2022-04-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,60628.29,1120.3
+2022-04-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,62251.82,437.3
+2022-04-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,62251.82,399.8
+2022-04-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,60457.6,657.6
+2022-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,70046.97,1245.7
+2022-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,70046.97,1283.7
+2022-05-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,68673.56,1135.7
+2022-05-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,68835.62,365.8
+2022-05-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,68835.62,422.6
+2022-05-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,69032.22,710.5
+2022-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,60535.61,1194.0
+2022-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,60535.61,1189.5
+2022-06-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,59821.55,1232.3
+2022-06-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,60319.14,401.6
+2022-06-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,60319.14,467.8
+2022-06-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,59195.89,592.0
+2022-07-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,56636.96,1180.3
+2022-07-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,56636.96,1094.3
+2022-07-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,57318.4,1184.2
+2022-07-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,56866.4,388.1
+2022-07-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,56866.4,449.1
+2022-07-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,55784.98,637.7
+2022-08-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,60191.2,1091.8
+2022-08-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,60191.2,1202.0
+2022-08-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,59569.85,1272.3
+2022-08-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,61923.77,407.6
+2022-08-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,61923.77,364.2
+2022-08-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,60822.81,618.4
+2022-09-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,61173.9,1189.6
+2022-09-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,61173.9,1064.3
+2022-09-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,58433.31,1266.3
+2022-09-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,61365.38,407.9
+2022-09-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,61365.38,386.7
+2022-09-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,61781.56,632.2
+2022-10-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,56273.17,1152.2
+2022-10-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,56273.17,1012.7
+2022-10-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,55572.39,1139.1
+2022-10-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,55151.3,399.4
+2022-10-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,55151.3,427.2
+2022-10-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,54413.32,648.5
+2022-11-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,59081.57,1207.4
+2022-11-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,59081.57,1112.0
+2022-11-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,58725.71,1167.4
+2022-11-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,58306.32,349.9
+2022-11-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,58306.32,392.8
+2022-11-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,60744.35,666.5
+2022-12-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,48345.93,1061.4
+2022-12-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,48345.93,1043.0
+2022-12-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,48064.7,1276.6
+2022-12-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,48743.71,392.3
+2022-12-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,48743.71,384.5
+2022-12-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,47641.24,638.6
+2023-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,54616.95,1277.2
+2023-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,54616.95,1361.7
+2023-01-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,54226.87,1276.9
+2023-01-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,52911.48,430.4
+2023-01-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,52911.48,417.8
+2023-01-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,54423.01,709.4
+2023-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,50667.99,1498.2
+2023-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,50667.99,1453.7
+2023-02-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,53404.21,1587.1
+2023-02-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,52027.24,410.5
+2023-02-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,52027.24,426.8
+2023-02-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,51693.97,762.1
+2023-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,44077.95,1390.9
+2023-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,44077.95,1541.9
+2023-03-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,44345.15,1554.5
+2023-03-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,43658.16,475.3
+2023-03-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,43658.16,441.5
+2023-03-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,44854.85,685.9
+2023-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,45882.31,1259.2
+2023-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,45882.31,1476.4
+2023-04-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,44084.44,1311.8
+2023-04-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,44217.56,436.9
+2023-04-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,44217.56,509.8
+2023-04-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,45186.23,734.2
+2023-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,41377.97,1488.4
+2023-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,41377.97,1288.4
+2023-05-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,40673.62,1397.9
+2023-05-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,40825.62,455.3
+2023-05-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,40825.62,496.5
+2023-05-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,41218.07,765.8
+2023-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,43009.48,1199.9
+2023-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,43009.48,1368.1
+2023-06-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,44758.54,1425.9
+2023-06-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,44639.0,452.5
+2023-06-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,44639.0,444.5
+2023-06-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,44166.97,726.5
+2023-07-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,40403.45,1422.7
+2023-07-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,40403.45,1212.2
+2023-07-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,39067.83,1308.9
+2023-07-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,40262.87,462.5
+2023-07-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,40262.87,417.0
+2023-07-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,39444.61,761.8
+2023-08-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,37373.17,1404.3
+2023-08-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,37373.17,1362.4
+2023-08-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,38933.52,1305.2
+2023-08-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,38864.82,447.1
+2023-08-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,38864.82,436.1
+2023-08-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,37333.97,741.7
+2023-09-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,36657.57,1383.6
+2023-09-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,36657.57,1265.3
+2023-09-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,35522.7,1401.3
+2023-09-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,36713.87,520.2
+2023-09-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,36713.87,453.9
+2023-09-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,35079.69,757.7
+2023-10-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,33691.1,1239.0
+2023-10-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,33691.1,1445.4
+2023-10-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,34404.66,1551.3
+2023-10-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,32495.22,511.1
+2023-10-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,32495.22,471.7
+2023-10-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,34055.51,857.2
+2023-11-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,31198.4,1198.9
+2023-11-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,31198.4,1397.7
+2023-11-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,30158.81,1551.6
+2023-11-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,30311.1,484.1
+2023-11-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,30311.1,432.2
+2023-11-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,30104.89,666.8
+2023-12-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,28252.78,1493.3
+2023-12-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,28252.78,1423.1
+2023-12-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,28694.45,1616.8
+2023-12-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,29440.35,403.9
+2023-12-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,29440.35,471.6
+2023-12-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,27959.49,710.0
+2024-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,25783.13,1485.3
+2024-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,25783.13,1447.9
+2024-01-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,25242.83,1645.0
+2024-01-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,26274.06,482.2
+2024-01-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,26274.06,499.6
+2024-01-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,25882.16,853.9
+2024-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21848.09,1509.3
+2024-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21848.09,1676.8
+2024-02-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,21808.52,1553.3
+2024-02-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21943.71,491.5
+2024-02-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21943.71,474.2
+2024-02-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,22656.18,863.8
+2024-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,25410.21,1570.7
+2024-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,25410.21,1400.3
+2024-03-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,25609.16,1530.9
+2024-03-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,25663.33,526.7
+2024-03-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,25663.33,502.3
+2024-03-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,26336.39,891.2
+2024-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21921.15,1463.9
+2024-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21921.15,1379.0
+2024-04-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,22230.86,1696.2
+2024-04-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21505.49,449.8
+2024-04-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21505.49,471.7
+2024-04-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,22360.42,769.7
+2024-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,22288.45,1620.4
+2024-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,22288.45,1557.4
+2024-05-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,22917.32,1348.1
+2024-05-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,23072.6,498.3
+2024-05-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,23072.6,532.8
+2024-05-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,23328.6,804.1
+2024-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21136.2,1453.4
+2024-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21136.2,1554.6
+2024-06-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,21309.55,1632.4
+2024-06-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21189.72,570.0
+2024-06-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21189.72,581.9
+2024-06-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,21114.13,853.7
+2024-07-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,24142.75,1510.6
+2024-07-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,24142.75,1506.8
+2024-07-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,24565.12,1601.2
+2024-07-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,23852.48,485.7
+2024-07-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,23852.48,507.8
+2024-07-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,23917.93,820.6
+2024-08-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,20693.27,1522.1
+2024-08-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,20693.27,1334.4
+2024-08-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,20507.53,1511.0
+2024-08-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,20357.22,535.7
+2024-08-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,20357.22,503.9
+2024-08-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,20893.05,917.7
+2024-09-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,20992.46,1478.1
+2024-09-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,20992.46,1506.2
+2024-09-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,21077.94,1756.0
+2024-09-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21312.07,494.6
+2024-09-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21312.07,494.5
+2024-09-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,20582.31,808.9
+2024-10-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21670.49,1494.3
+2024-10-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21670.49,1392.1
+2024-10-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,21487.27,1556.8
+2024-10-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21487.45,540.3
+2024-10-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21487.45,487.1
+2024-10-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,21518.21,819.5
+2024-11-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,20099.14,1449.3
+2024-11-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,20099.14,1560.1
+2024-11-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,19494.83,1505.4
+2024-11-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,19835.77,528.0
+2024-11-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,19835.77,465.6
+2024-11-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,20122.89,891.6
+2024-12-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21308.55,1480.3
+2024-12-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21308.55,1523.6
+2024-12-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,21920.62,1485.5
+2024-12-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21959.68,523.1
+2024-12-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21959.68,463.6
+2024-12-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,22022.78,793.2
+2025-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21088.54,1656.8
+2025-01-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21088.54,1761.6
+2025-01-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,22190.05,1752.4
+2025-01-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21046.94,622.8
+2025-01-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21046.94,615.2
+2025-01-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,21949.44,944.3
+2025-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21553.76,1690.9
+2025-02-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21553.76,1551.5
+2025-02-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,20783.03,1722.2
+2025-02-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21385.02,601.7
+2025-02-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21385.02,520.7
+2025-02-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,21116.09,1078.5
+2025-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,21931.08,1843.1
+2025-03-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,21931.08,1608.6
+2025-03-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,21677.23,1819.8
+2025-03-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21927.48,547.4
+2025-03-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21927.48,614.4
+2025-03-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,21091.32,1068.1
+2025-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,20056.13,1653.1
+2025-04-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,20056.13,1534.5
+2025-04-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,19543.88,1731.9
+2025-04-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,19733.36,653.9
+2025-04-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,19733.36,632.1
+2025-04-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,19338.64,990.2
+2025-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,19460.22,1854.8
+2025-05-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,19460.22,1831.0
+2025-05-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,19462.85,1884.9
+2025-05-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,19148.28,563.0
+2025-05-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,19148.28,521.2
+2025-05-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,19442.33,960.7
+2025-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Pilbara Resources Ltd,20932.14,1842.6
+2025-06-01,LI,Lithium,USD/tonne LCE,AU,Australia,Southern Cross Minerals,20932.14,1689.7
+2025-06-01,LI,Lithium,USD/tonne LCE,CL,Chile,Atacama Salares SA,20665.51,1568.1
+2025-06-01,LI,Lithium,USD/tonne LCE,CN,China,Jiangxi Graphite Group,21192.33,573.3
+2025-06-01,LI,Lithium,USD/tonne LCE,CN,China,Sichuan New Materials,21192.33,510.4
+2025-06-01,LI,Lithium,USD/tonne LCE,AR,Argentina,Salta Lithium Partners,21126.78,940.1
+2022-01-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,973.38,1501.1
+2022-01-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,973.38,1531.6
+2022-01-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,967.25,518.0
+2022-01-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,972.87,550.4
+2022-01-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,997.9,606.5
+2022-02-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,997.8,1646.7
+2022-02-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,997.8,1612.7
+2022-02-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,957.49,541.0
+2022-02-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,974.67,569.8
+2022-02-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,951.03,656.3
+2022-03-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,915.7,1473.6
+2022-03-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,915.7,1685.3
+2022-03-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,926.73,575.4
+2022-03-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,897.25,525.7
+2022-03-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,909.12,691.4
+2022-04-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,988.19,1608.9
+2022-04-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,988.19,1650.0
+2022-04-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,963.87,605.8
+2022-04-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,960.88,479.3
+2022-04-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,951.8,599.8
+2022-05-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,933.86,1635.8
+2022-05-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,933.86,1634.5
+2022-05-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,959.82,646.1
+2022-05-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,956.27,539.9
+2022-05-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,944.89,701.3
+2022-06-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,969.85,1582.8
+2022-06-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,969.85,1615.5
+2022-06-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,965.42,589.5
+2022-06-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,929.77,501.3
+2022-06-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,976.47,670.9
+2022-07-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,911.77,1495.3
+2022-07-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,911.77,1462.0
+2022-07-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,914.67,629.2
+2022-07-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,941.89,574.4
+2022-07-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,947.35,669.6
+2022-08-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,900.11,1742.9
+2022-08-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,900.11,1832.4
+2022-08-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,906.33,584.7
+2022-08-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,879.6,484.1
+2022-08-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,910.91,678.0
+2022-09-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,909.74,1824.5
+2022-09-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,909.74,1780.4
+2022-09-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,918.95,582.4
+2022-09-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,947.45,476.6
+2022-09-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,948.44,672.0
+2022-10-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,917.83,1558.2
+2022-10-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,917.83,1684.6
+2022-10-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,949.95,575.7
+2022-10-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,959.36,497.7
+2022-10-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,914.11,734.1
+2022-11-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,919.08,1573.0
+2022-11-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,919.08,1573.5
+2022-11-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,966.02,607.2
+2022-11-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,916.77,529.9
+2022-11-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,950.5,651.0
+2022-12-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,937.66,1624.3
+2022-12-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,937.66,1729.6
+2022-12-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,934.47,589.8
+2022-12-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,931.31,506.6
+2022-12-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,906.75,739.3
+2023-01-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,914.74,1885.4
+2023-01-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,914.74,1998.8
+2023-01-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,926.24,692.7
+2023-01-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,918.21,584.5
+2023-01-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,924.34,725.9
+2023-02-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,900.48,1825.1
+2023-02-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,900.48,2034.0
+2023-02-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,909.78,665.9
+2023-02-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,890.49,623.4
+2023-02-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,922.49,785.2
+2023-03-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,883.74,2007.7
+2023-03-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,883.74,2009.4
+2023-03-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,880.35,677.5
+2023-03-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,874.23,613.9
+2023-03-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,877.37,772.5
+2023-04-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,902.4,2061.9
+2023-04-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,902.4,2062.1
+2023-04-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,887.92,702.9
+2023-04-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,908.28,639.4
+2023-04-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,871.2,710.2
+2023-05-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,943.38,1990.9
+2023-05-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,943.38,1855.5
+2023-05-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,950.4,696.9
+2023-05-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,952.12,539.0
+2023-05-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,918.09,763.3
+2023-06-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,870.72,1987.9
+2023-06-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,870.72,1754.1
+2023-06-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,886.59,658.9
+2023-06-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,888.77,511.9
+2023-06-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,854.49,706.5
+2023-07-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,871.6,2029.5
+2023-07-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,871.6,1825.8
+2023-07-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,843.22,695.6
+2023-07-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,847.24,558.4
+2023-07-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,835.75,770.6
+2023-08-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,881.75,1816.9
+2023-08-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,881.75,1966.5
+2023-08-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,903.14,688.5
+2023-08-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,881.43,574.9
+2023-08-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,854.2,793.3
+2023-09-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,861.0,2108.5
+2023-09-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,861.0,2032.2
+2023-09-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,879.34,690.0
+2023-09-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,883.75,610.2
+2023-09-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,878.9,851.6
+2023-10-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,872.71,1840.4
+2023-10-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,872.71,1895.8
+2023-10-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,865.05,676.7
+2023-10-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,856.49,549.5
+2023-10-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,877.44,870.4
+2023-11-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,898.85,1789.6
+2023-11-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,898.85,1906.2
+2023-11-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,873.14,662.0
+2023-11-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,862.67,675.2
+2023-11-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,893.53,866.5
+2023-12-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,876.97,2073.7
+2023-12-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,876.97,1769.3
+2023-12-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,881.69,718.0
+2023-12-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,888.58,629.0
+2023-12-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,863.31,757.6
+2024-01-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,816.37,2428.6
+2024-01-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,816.37,2117.4
+2024-01-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,829.17,784.9
+2024-01-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,808.89,584.1
+2024-01-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,803.82,904.0
+2024-02-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,797.0,2222.6
+2024-02-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,797.0,2319.9
+2024-02-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,836.61,797.2
+2024-02-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,797.92,663.7
+2024-02-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,814.29,776.3
+2024-03-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,861.91,1932.4
+2024-03-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,861.91,2130.7
+2024-03-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,847.78,855.0
+2024-03-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,893.56,636.1
+2024-03-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,852.49,768.4
+2024-04-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,866.44,2156.6
+2024-04-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,866.44,2137.9
+2024-04-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,872.83,683.4
+2024-04-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,861.38,558.4
+2024-04-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,842.98,830.8
+2024-05-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,837.73,2219.1
+2024-05-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,837.73,1850.3
+2024-05-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,837.58,763.7
+2024-05-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,839.12,644.2
+2024-05-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,830.92,826.2
+2024-06-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,794.49,1869.2
+2024-06-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,794.49,2152.2
+2024-06-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,822.27,779.6
+2024-06-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,810.97,625.8
+2024-06-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,831.99,768.3
+2024-07-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,843.88,2217.8
+2024-07-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,843.88,2444.1
+2024-07-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,841.74,710.9
+2024-07-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,842.31,724.3
+2024-07-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,821.6,804.4
+2024-08-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,798.37,2056.1
+2024-08-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,798.37,1965.2
+2024-08-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,793.5,833.9
+2024-08-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,773.0,687.7
+2024-08-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,799.22,940.7
+2024-09-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,829.01,1906.7
+2024-09-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,829.01,1951.3
+2024-09-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,827.24,711.5
+2024-09-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,839.67,626.3
+2024-09-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,852.53,728.9
+2024-10-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,814.82,2069.3
+2024-10-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,814.82,2098.1
+2024-10-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,839.36,796.7
+2024-10-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,816.1,613.8
+2024-10-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,847.57,931.3
+2024-11-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,829.17,2203.4
+2024-11-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,829.17,2306.2
+2024-11-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,831.95,703.1
+2024-11-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,841.28,593.2
+2024-11-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,827.86,934.6
+2024-12-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,844.41,2324.5
+2024-12-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,844.41,2337.8
+2024-12-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,849.91,768.4
+2024-12-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,812.69,651.2
+2024-12-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,820.62,738.3
+2025-01-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,821.58,2210.7
+2025-01-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,821.58,2444.7
+2025-01-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,838.7,758.9
+2025-01-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,818.61,697.1
+2025-01-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,840.23,989.1
+2025-02-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,761.26,2239.2
+2025-02-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,761.26,2263.7
+2025-02-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,784.79,835.9
+2025-02-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,766.66,754.9
+2025-02-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,773.97,846.0
+2025-03-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,824.81,2137.4
+2025-03-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,824.81,2301.9
+2025-03-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,792.5,848.7
+2025-03-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,798.85,657.7
+2025-03-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,792.5,961.9
+2025-04-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,794.99,2311.2
+2025-04-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,794.99,2465.2
+2025-04-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,765.22,978.6
+2025-04-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,762.71,728.5
+2025-04-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,788.96,1011.7
+2025-05-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,802.07,2102.4
+2025-05-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,802.07,2243.7
+2025-05-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,826.85,972.5
+2025-05-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,800.74,827.0
+2025-05-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,825.41,908.1
+2025-06-01,GR,Graphite,USD/tonne,CN,China,Jiangxi Graphite Group,794.22,2208.4
+2025-06-01,GR,Graphite,USD/tonne,CN,China,Sichuan New Materials,794.22,2133.1
+2025-06-01,GR,Graphite,USD/tonne,MZ,Mozambique,Cabo Delgado Graphite Co,783.37,873.2
+2025-06-01,GR,Graphite,USD/tonne,BR,Brazil,Minas Grafite SA,794.69,807.2
+2025-06-01,GR,Graphite,USD/tonne,IN,India,Odisha Minerals Corp,817.1,938.3
+2022-01-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4076.4,1801.9
+2022-01-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,3973.03,1188.9
+2022-01-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4113.36,446.7
+2022-01-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4113.36,420.3
+2022-01-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4067.19,603.2
+2022-01-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4140.05,732.1
+2022-02-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4042.71,1609.6
+2022-02-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,3948.75,1061.9
+2022-02-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4045.08,375.6
+2022-02-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4045.08,439.4
+2022-02-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4145.44,549.2
+2022-02-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4058.5,707.6
+2022-03-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4330.32,1865.1
+2022-03-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4268.38,1113.3
+2022-03-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4141.24,386.3
+2022-03-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4141.24,389.8
+2022-03-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4190.12,610.2
+2022-03-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4146.75,665.2
+2022-04-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4190.0,1660.9
+2022-04-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4129.78,1057.9
+2022-04-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4208.86,437.9
+2022-04-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4208.86,426.2
+2022-04-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4082.49,530.1
+2022-04-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4240.46,697.0
+2022-05-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4341.39,1939.1
+2022-05-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4345.72,1133.9
+2022-05-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4356.8,446.8
+2022-05-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4356.8,476.9
+2022-05-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4352.78,564.3
+2022-05-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4429.99,783.5
+2022-06-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4325.04,1907.5
+2022-06-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4282.4,1056.6
+2022-06-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4244.15,439.4
+2022-06-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4244.15,402.1
+2022-06-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4224.3,481.4
+2022-06-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4214.86,778.6
+2022-07-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4241.46,1848.1
+2022-07-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4265.88,1118.6
+2022-07-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4449.18,423.8
+2022-07-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4449.18,426.9
+2022-07-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4346.14,511.3
+2022-07-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4293.75,711.8
+2022-08-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4120.97,1884.3
+2022-08-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4210.18,1059.9
+2022-08-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4100.86,487.8
+2022-08-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4100.86,491.2
+2022-08-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4079.52,533.7
+2022-08-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4249.28,747.7
+2022-09-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4290.04,1743.8
+2022-09-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4369.62,1073.1
+2022-09-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4447.14,429.2
+2022-09-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4447.14,472.1
+2022-09-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4461.29,492.6
+2022-09-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4472.03,654.5
+2022-10-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4091.23,1599.7
+2022-10-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4144.06,1209.2
+2022-10-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4091.62,452.4
+2022-10-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4091.62,444.8
+2022-10-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4284.44,522.4
+2022-10-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4294.13,702.6
+2022-11-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4069.44,1675.2
+2022-11-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4022.25,1094.6
+2022-11-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4137.68,430.7
+2022-11-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4137.68,395.0
+2022-11-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4033.33,483.3
+2022-11-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4154.01,685.1
+2022-12-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4097.2,1731.3
+2022-12-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4010.49,1024.1
+2022-12-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4101.62,398.4
+2022-12-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4101.62,413.2
+2022-12-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,3972.28,618.1
+2022-12-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4079.93,652.6
+2023-01-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4419.91,2075.4
+2023-01-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4577.56,1228.8
+2023-01-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4526.17,436.9
+2023-01-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4526.17,471.9
+2023-01-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4521.63,675.9
+2023-01-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4327.51,790.6
+2023-02-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4440.92,1948.5
+2023-02-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4402.29,1385.8
+2023-02-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4440.15,450.8
+2023-02-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4440.15,435.8
+2023-02-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4289.01,532.6
+2023-02-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4371.8,945.0
+2023-03-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4310.72,1865.5
+2023-03-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4317.74,1326.5
+2023-03-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4150.52,463.0
+2023-03-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4150.52,512.6
+2023-03-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4346.73,642.2
+2023-03-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4245.22,865.6
+2023-04-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4479.6,2170.7
+2023-04-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4427.15,1255.9
+2023-04-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4352.9,451.0
+2023-04-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4352.9,508.1
+2023-04-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4427.19,603.8
+2023-04-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4360.91,753.5
+2023-05-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4500.54,1930.1
+2023-05-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4487.37,1246.4
+2023-05-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4334.09,529.6
+2023-05-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4334.09,517.4
+2023-05-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4276.27,692.9
+2023-05-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4247.96,768.4
+2023-06-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4293.78,2052.9
+2023-06-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4370.63,1401.8
+2023-06-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4392.43,485.8
+2023-06-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4392.43,481.6
+2023-06-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4362.97,591.0
+2023-06-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4385.32,755.1
+2023-07-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4093.18,1990.2
+2023-07-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4276.2,1200.3
+2023-07-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4150.34,482.0
+2023-07-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4150.34,558.1
+2023-07-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4251.86,620.7
+2023-07-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4197.86,803.9
+2023-08-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4009.87,2036.5
+2023-08-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4204.15,1401.1
+2023-08-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4151.37,552.8
+2023-08-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4151.37,523.1
+2023-08-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4043.48,551.3
+2023-08-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4000.32,851.5
+2023-09-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4143.93,2219.2
+2023-09-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4083.86,1299.3
+2023-09-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4137.5,533.1
+2023-09-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4137.5,538.6
+2023-09-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4248.22,606.2
+2023-09-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4175.77,773.8
+2023-10-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4373.33,2025.2
+2023-10-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4319.42,1471.1
+2023-10-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4239.15,422.5
+2023-10-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4239.15,423.6
+2023-10-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4391.42,595.7
+2023-10-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4439.72,921.4
+2023-11-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4080.36,1956.2
+2023-11-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4076.12,1225.7
+2023-11-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4175.74,430.8
+2023-11-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4175.74,477.5
+2023-11-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4093.61,699.7
+2023-11-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4147.33,736.5
+2023-12-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,3993.99,2180.8
+2023-12-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,3955.78,1355.7
+2023-12-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4006.01,468.0
+2023-12-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4006.01,533.2
+2023-12-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4048.36,654.1
+2023-12-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,3873.82,710.3
+2024-01-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4059.5,2383.9
+2024-01-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4187.04,1452.1
+2024-01-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4250.77,541.2
+2024-01-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4250.77,569.3
+2024-01-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4088.04,717.3
+2024-01-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4070.38,805.5
+2024-02-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4097.23,2181.0
+2024-02-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,3985.98,1461.4
+2024-02-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4023.34,588.8
+2024-02-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4023.34,559.2
+2024-02-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4068.76,689.3
+2024-02-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4177.76,841.5
+2024-03-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4310.0,2032.6
+2024-03-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4448.13,1472.9
+2024-03-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4357.95,588.1
+2024-03-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4357.95,542.3
+2024-03-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4407.74,798.8
+2024-03-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4322.44,903.0
+2024-04-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,3922.93,2361.9
+2024-04-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,3972.74,1636.3
+2024-04-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,3933.87,622.5
+2024-04-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,3933.87,556.4
+2024-04-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,3987.08,814.4
+2024-04-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,3953.26,948.8
+2024-05-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4060.63,2097.3
+2024-05-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4140.32,1454.3
+2024-05-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4108.18,566.4
+2024-05-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4108.18,516.5
+2024-05-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4210.64,740.1
+2024-05-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4232.79,891.9
+2024-06-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4316.11,2205.4
+2024-06-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4357.83,1494.4
+2024-06-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4293.13,600.5
+2024-06-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4293.13,524.0
+2024-06-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4354.57,752.4
+2024-06-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4255.59,992.3
+2024-07-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4214.52,2269.7
+2024-07-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4093.76,1562.6
+2024-07-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4294.61,471.2
+2024-07-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4294.61,461.9
+2024-07-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4094.67,720.1
+2024-07-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4251.14,972.4
+2024-08-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4187.37,2252.5
+2024-08-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4255.17,1407.2
+2024-08-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4252.25,518.5
+2024-08-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4252.25,600.5
+2024-08-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4262.71,734.9
+2024-08-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4337.29,978.6
+2024-09-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4125.9,2250.6
+2024-09-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4308.5,1311.7
+2024-09-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4116.04,555.7
+2024-09-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4116.04,514.3
+2024-09-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4298.64,738.9
+2024-09-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4094.57,908.0
+2024-10-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4170.6,2748.9
+2024-10-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4040.97,1436.0
+2024-10-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4054.7,564.9
+2024-10-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4054.7,543.6
+2024-10-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4019.26,718.1
+2024-10-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4140.59,902.4
+2024-11-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4123.68,2453.1
+2024-11-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4223.07,1308.5
+2024-11-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4243.02,501.3
+2024-11-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4243.02,574.4
+2024-11-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4201.05,714.9
+2024-11-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4297.73,964.2
+2024-12-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4244.36,2147.8
+2024-12-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4230.49,1343.2
+2024-12-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4138.13,584.0
+2024-12-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4138.13,607.9
+2024-12-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4048.91,820.6
+2024-12-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4233.39,948.6
+2025-01-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4201.65,2849.2
+2025-01-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4186.94,1536.5
+2025-01-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,3997.92,683.1
+2025-01-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,3997.92,596.1
+2025-01-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4105.03,858.9
+2025-01-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4180.63,1079.3
+2025-02-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,3937.03,2428.1
+2025-02-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,3942.74,1605.7
+2025-02-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4034.74,678.1
+2025-02-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4034.74,603.0
+2025-02-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4114.13,898.0
+2025-02-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,3918.76,1051.9
+2025-03-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,3980.96,2335.9
+2025-03-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,3959.69,1611.9
+2025-03-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,3975.73,690.5
+2025-03-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,3975.73,596.4
+2025-03-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4070.08,745.5
+2025-03-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,3976.9,935.0
+2025-04-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4215.16,2670.1
+2025-04-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4268.27,1436.0
+2025-04-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4094.12,581.6
+2025-04-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4094.12,584.0
+2025-04-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4190.72,815.1
+2025-04-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4157.01,1030.7
+2025-05-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4176.21,2619.4
+2025-05-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4134.08,1672.2
+2025-05-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4133.12,644.5
+2025-05-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4133.12,580.6
+2025-05-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4241.86,815.3
+2025-05-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4196.73,962.0
+2025-06-01,MN,Manganese,USD/tonne,ZA,South Africa,Kalahari Manganese Fields,4040.37,2283.5
+2025-06-01,MN,Manganese,USD/tonne,GA,Gabon,Moanda Mining SA,4094.77,1582.7
+2025-06-01,MN,Manganese,USD/tonne,AU,Australia,Pilbara Resources Ltd,4009.89,562.9
+2025-06-01,MN,Manganese,USD/tonne,AU,Australia,Southern Cross Minerals,4009.89,612.9
+2025-06-01,MN,Manganese,USD/tonne,GH,Ghana,Ghana Ore Holdings,4074.17,819.3
+2025-06-01,MN,Manganese,USD/tonne,IN,India,Odisha Minerals Corp,4079.6,1083.1
+2022-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,45600.12,1928.7
+2022-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,45600.12,1907.8
+2022-01-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,48044.47,253.1
+2022-01-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,47581.45,129.7
+2022-01-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,47581.45,135.0
+2022-01-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,46602.01,281.0
+2022-01-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,47864.23,636.6
+2022-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,49713.15,1867.2
+2022-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,49713.15,1909.5
+2022-02-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,48285.38,294.9
+2022-02-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,49908.32,118.6
+2022-02-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,49908.32,113.1
+2022-02-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,48639.54,238.9
+2022-02-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,49329.54,643.4
+2022-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,46826.18,1909.3
+2022-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,46826.18,1834.7
+2022-03-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,48346.47,276.9
+2022-03-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,48558.01,117.7
+2022-03-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,48558.01,122.6
+2022-03-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,46136.78,238.6
+2022-03-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,46179.78,649.3
+2022-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,47405.88,1848.9
+2022-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,47405.88,1570.6
+2022-04-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,47614.19,319.2
+2022-04-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,47699.95,132.2
+2022-04-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,47699.95,134.1
+2022-04-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,47650.36,225.5
+2022-04-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,47416.79,590.8
+2022-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,45637.71,2087.9
+2022-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,45637.71,1977.8
+2022-05-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,44609.39,324.5
+2022-05-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,45079.84,141.5
+2022-05-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,45079.84,129.0
+2022-05-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,43681.97,240.6
+2022-05-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,44550.21,668.0
+2022-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,46943.32,2014.1
+2022-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,46943.32,1883.0
+2022-06-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,46256.04,298.9
+2022-06-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,45277.06,123.4
+2022-06-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,45277.06,130.0
+2022-06-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,44970.4,275.8
+2022-06-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,45457.19,590.1
+2022-07-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,47149.95,2007.4
+2022-07-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,47149.95,1993.2
+2022-07-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,47989.55,325.2
+2022-07-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,49366.52,109.9
+2022-07-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,49366.52,132.3
+2022-07-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,46945.71,295.3
+2022-07-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,47306.87,610.5
+2022-08-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,44199.96,2025.3
+2022-08-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,44199.96,1873.7
+2022-08-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,43690.2,287.2
+2022-08-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,44055.08,115.2
+2022-08-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,44055.08,137.3
+2022-08-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,44960.44,269.4
+2022-08-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,43834.73,594.9
+2022-09-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,42971.4,1845.7
+2022-09-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,42971.4,1724.9
+2022-09-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,42687.94,285.9
+2022-09-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,44469.19,122.6
+2022-09-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,44469.19,126.4
+2022-09-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,42962.38,274.0
+2022-09-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,43967.82,643.6
+2022-10-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,41714.97,1968.0
+2022-10-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,41714.97,1880.5
+2022-10-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,42667.12,329.1
+2022-10-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,41369.11,124.2
+2022-10-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,41369.11,126.5
+2022-10-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,43234.53,252.2
+2022-10-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,41873.72,659.1
+2022-11-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,40372.67,1844.1
+2022-11-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,40372.67,1861.7
+2022-11-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,40641.18,304.9
+2022-11-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,40808.24,103.9
+2022-11-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,40808.24,115.8
+2022-11-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,41847.67,217.7
+2022-11-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,41106.98,668.7
+2022-12-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,46087.97,1568.4
+2022-12-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,46087.97,1582.9
+2022-12-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,48125.27,287.3
+2022-12-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,46872.22,120.6
+2022-12-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,46872.22,124.5
+2022-12-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,46455.08,279.5
+2022-12-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,47667.65,678.8
+2023-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,45046.84,1955.7
+2023-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,45046.84,1763.5
+2023-01-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,44480.88,317.9
+2023-01-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,46149.77,144.1
+2023-01-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,46149.77,152.4
+2023-01-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,45452.21,244.3
+2023-01-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,46377.76,709.1
+2023-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,41128.88,2083.2
+2023-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,41128.88,2073.1
+2023-02-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,41023.92,378.4
+2023-02-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,43375.43,141.9
+2023-02-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,43375.43,146.5
+2023-02-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,41949.24,272.1
+2023-02-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,41549.57,696.4
+2023-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,40200.74,2313.9
+2023-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,40200.74,2042.8
+2023-03-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,41156.96,372.1
+2023-03-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,39523.27,152.7
+2023-03-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,39523.27,165.1
+2023-03-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,41266.22,305.7
+2023-03-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,41277.31,614.8
+2023-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,38807.68,2168.8
+2023-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,38807.68,2430.2
+2023-04-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,39248.22,352.2
+2023-04-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,39105.92,142.2
+2023-04-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,39105.92,139.9
+2023-04-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,38023.98,279.7
+2023-04-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,39387.91,679.0
+2023-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,36303.32,1852.7
+2023-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,36303.32,1818.3
+2023-05-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,36036.96,321.4
+2023-05-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,36523.18,131.3
+2023-05-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,36523.18,140.8
+2023-05-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,36941.85,259.4
+2023-05-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,36267.14,662.1
+2023-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,36553.18,2413.5
+2023-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,36553.18,2234.6
+2023-06-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,35430.21,303.2
+2023-06-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,35670.86,127.0
+2023-06-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,35670.86,137.4
+2023-06-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,35651.82,259.9
+2023-06-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,35143.0,679.2
+2023-07-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,37345.65,1892.2
+2023-07-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,37345.65,2145.9
+2023-07-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,38523.41,356.1
+2023-07-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,37868.33,148.7
+2023-07-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,37868.33,149.9
+2023-07-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,37412.55,298.2
+2023-07-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,37561.09,711.9
+2023-08-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,39224.53,2312.0
+2023-08-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,39224.53,2221.2
+2023-08-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,39107.69,340.5
+2023-08-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,39466.4,139.4
+2023-08-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,39466.4,153.0
+2023-08-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,39830.32,302.3
+2023-08-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,40801.21,690.2
+2023-09-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,36575.24,2128.6
+2023-09-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,36575.24,2180.4
+2023-09-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,36837.05,361.2
+2023-09-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,36465.65,151.5
+2023-09-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,36465.65,153.1
+2023-09-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,36092.18,330.3
+2023-09-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,36818.53,688.6
+2023-10-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,37470.7,2257.6
+2023-10-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,37470.7,2073.6
+2023-10-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,37455.59,376.9
+2023-10-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,37975.92,138.4
+2023-10-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,37975.92,130.3
+2023-10-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,36350.97,322.8
+2023-10-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,37147.74,745.5
+2023-11-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,35544.45,1948.2
+2023-11-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,35544.45,2051.3
+2023-11-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,36796.78,351.2
+2023-11-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,36380.67,150.3
+2023-11-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,36380.67,145.0
+2023-11-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,36279.23,260.2
+2023-11-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,36435.25,706.0
+2023-12-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,29905.28,2132.6
+2023-12-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,29905.28,2196.2
+2023-12-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,30531.05,327.2
+2023-12-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,30923.17,137.2
+2023-12-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,30923.17,136.7
+2023-12-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,29856.53,322.9
+2023-12-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,30887.19,658.9
+2024-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,33974.54,2091.6
+2024-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,33974.54,2271.0
+2024-01-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,34093.89,410.7
+2024-01-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,34943.45,152.2
+2024-01-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,34943.45,139.8
+2024-01-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,34022.09,337.0
+2024-01-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,35077.04,721.0
+2024-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,32383.23,2260.0
+2024-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,32383.23,2638.3
+2024-02-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,32908.85,367.4
+2024-02-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,33979.66,157.2
+2024-02-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,33979.66,160.6
+2024-02-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,33478.17,335.7
+2024-02-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,33945.5,778.9
+2024-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,33132.74,2472.4
+2024-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,33132.74,2216.4
+2024-03-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,32771.35,352.9
+2024-03-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,33929.65,154.6
+2024-03-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,33929.65,151.7
+2024-03-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,33306.35,287.0
+2024-03-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,33929.64,820.1
+2024-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,34513.25,2190.7
+2024-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,34513.25,2273.0
+2024-04-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,33609.76,376.0
+2024-04-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,33781.58,159.2
+2024-04-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,33781.58,163.6
+2024-04-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,34524.29,337.3
+2024-04-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,35238.99,767.8
+2024-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,29702.8,2074.4
+2024-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,29702.8,2066.9
+2024-05-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,28662.54,389.0
+2024-05-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,29711.33,170.5
+2024-05-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,29711.33,155.7
+2024-05-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,29727.47,324.6
+2024-05-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,29810.81,693.4
+2024-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,33763.97,2169.9
+2024-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,33763.97,2513.0
+2024-06-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,32401.98,446.2
+2024-06-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,32502.09,171.4
+2024-06-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,32502.09,159.2
+2024-06-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,33342.53,332.2
+2024-06-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,32973.12,794.3
+2024-07-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,32032.1,2217.3
+2024-07-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,32032.1,2249.5
+2024-07-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,31822.99,360.6
+2024-07-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,32763.22,151.3
+2024-07-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,32763.22,163.2
+2024-07-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,32230.9,336.5
+2024-07-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,33038.84,772.5
+2024-08-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,34902.19,2688.0
+2024-08-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,34902.19,2626.6
+2024-08-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,34794.56,348.3
+2024-08-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,34717.75,176.8
+2024-08-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,34717.75,173.9
+2024-08-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,34204.9,309.5
+2024-08-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,33948.66,789.9
+2024-09-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,33542.46,2090.6
+2024-09-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,33542.46,2378.6
+2024-09-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,34416.38,368.6
+2024-09-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,34062.26,156.5
+2024-09-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,34062.26,156.5
+2024-09-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,33841.11,313.6
+2024-09-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,33580.29,684.6
+2024-10-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,30475.64,2378.7
+2024-10-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,30475.64,2159.7
+2024-10-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,31027.49,393.7
+2024-10-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,31243.34,144.1
+2024-10-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,31243.34,145.8
+2024-10-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,30829.89,314.3
+2024-10-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,30795.97,742.3
+2024-11-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,34195.51,2064.5
+2024-11-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,34195.51,2295.4
+2024-11-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,34690.8,352.0
+2024-11-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,33306.5,162.2
+2024-11-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,33306.5,179.9
+2024-11-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,33602.6,295.6
+2024-11-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,33273.54,829.9
+2024-12-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,32271.79,1995.0
+2024-12-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,32271.79,2035.3
+2024-12-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,31365.26,416.9
+2024-12-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,33263.3,168.1
+2024-12-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,33263.3,158.2
+2024-12-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,32090.03,316.7
+2024-12-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,31954.85,786.1
+2025-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,29519.68,2524.3
+2025-01-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,29519.68,2992.8
+2025-01-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,29131.23,369.8
+2025-01-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,28973.49,193.9
+2025-01-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,28973.49,190.4
+2025-01-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,28923.96,355.1
+2025-01-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,28356.9,846.6
+2025-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,32562.07,2892.7
+2025-02-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,32562.07,2549.2
+2025-02-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,32351.43,375.8
+2025-02-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,32986.99,186.7
+2025-02-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,32986.99,193.0
+2025-02-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,33474.68,385.3
+2025-02-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,32825.15,844.0
+2025-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,32147.86,2725.5
+2025-03-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,32147.86,2754.2
+2025-03-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,32263.15,434.6
+2025-03-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,33086.69,201.5
+2025-03-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,33086.69,201.9
+2025-03-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,32301.28,415.7
+2025-03-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,32763.9,911.7
+2025-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,33923.92,2529.2
+2025-04-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,33923.92,2557.6
+2025-04-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,32460.69,381.6
+2025-04-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,33395.63,194.5
+2025-04-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,33395.63,189.7
+2025-04-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,33786.61,327.7
+2025-04-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,33614.83,836.2
+2025-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,30478.02,2775.8
+2025-05-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,30478.02,2633.7
+2025-05-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,31280.65,456.0
+2025-05-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,30222.8,193.9
+2025-05-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,30222.8,195.1
+2025-05-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,30207.51,350.9
+2025-05-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,30943.81,879.6
+2025-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Katanga Cobalt Exports,31724.86,2504.6
+2025-06-01,CO,Cobalt,USD/tonne,CD,DR Congo,Lualaba Resources,31724.86,2823.7
+2025-06-01,CO,Cobalt,USD/tonne,RU,Russia,Norilsk Metals Trading,30642.51,489.7
+2025-06-01,CO,Cobalt,USD/tonne,AU,Australia,Pilbara Resources Ltd,31804.29,189.9
+2025-06-01,CO,Cobalt,USD/tonne,AU,Australia,Southern Cross Minerals,31804.29,169.8
+2025-06-01,CO,Cobalt,USD/tonne,CA,Canada,Ontario Battery Metals,31800.79,325.1
+2025-06-01,CO,Cobalt,USD/tonne,ID,Indonesia,Sulawesi Nickel-Cobalt Co,31782.6,836.8

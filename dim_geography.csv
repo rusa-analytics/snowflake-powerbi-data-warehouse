@@ -1,0 +1,19 @@
+commodity_id,country_iso,country_name,production_share
+LI,AU,Australia,0.47
+LI,CL,Chile,0.24
+LI,CN,China,0.16
+LI,AR,Argentina,0.13
+GR,CN,China,0.65
+GR,MZ,Mozambique,0.12
+GR,BR,Brazil,0.1
+GR,IN,India,0.13
+MN,ZA,South Africa,0.36
+MN,GA,Gabon,0.22
+MN,AU,Australia,0.17
+MN,GH,Ghana,0.11
+MN,IN,India,0.14
+CO,CD,DR Congo,0.72
+CO,RU,Russia,0.06
+CO,AU,Australia,0.05
+CO,CA,Canada,0.05
+CO,ID,Indonesia,0.12

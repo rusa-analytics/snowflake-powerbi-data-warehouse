@@ -6,7 +6,7 @@ Repo: https://github.com/rusa-analytics/snowflake-powerbi-data-warehouse
 
 ## Case studies
 
-### [Critical Minerals Market Intelligence](case-studies/critical-minerals-market-intelligence/)
+### [Critical Minerals Market Intelligence]
 Snowflake data warehouse + Power BI reporting layer tracking price, production, and supply concentration across Lithium, Graphite, Manganese, and Cobalt.
 
 - `dashboard.html` — self-contained interactive dashboard, safe to embed via iframe or Wix Custom Code
